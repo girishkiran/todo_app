@@ -1,16 +1,15 @@
 # todo_app
 
-A new Flutter project.
+ToDo App to share tasks with other users
 
-## Getting Started
+### Screenshot
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d293ad5-1b44-4ec1-b28a-27f1e4fc8543" />
 
-This project is a starting point for a Flutter application.
+### Task share 
+https://github.com/user-attachments/assets/43ba74c8-4579-4b20-bdae-dcfe6c08e728
 
-A few resources to get you started if this is your first Flutter project:
+### Join the Task , Realtime update on both device
+https://github.com/user-attachments/assets/bb781b37-1721-48ed-b16a-6593b7b4111d
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
