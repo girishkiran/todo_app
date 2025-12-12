@@ -11,5 +11,6 @@ https://github.com/user-attachments/assets/43ba74c8-4579-4b20-bdae-dcfe6c08e728
 ### Join the Task , Realtime update on both device
 https://github.com/user-attachments/assets/bb781b37-1721-48ed-b16a-6593b7b4111d
 
-
+### Architecture
+<img src="docs/architecture.svg" width="100%" style="min-width:800px;" />
 

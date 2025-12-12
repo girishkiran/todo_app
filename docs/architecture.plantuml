@@ -1,0 +1,75 @@
+@startuml
+
+skinparam componentStyle rectangle
+
+package "ToDo App" {
+  package Models {
+    [Task] as Model_Task
+  }
+
+  package Repositories {
+    [TaskRepository] as Repo_TaskRepo
+  }
+
+  package ViewModels {
+    [TaskListViewModel\n(StateNotifier)] as VM_TaskList
+  }
+
+  package Providers {
+    [taskRepoProvider\n(Provider<TaskRepository>)] as P_Repo
+    [taskListProvider\n(StateNotifierProvider)] as P_TaskList
+  }
+
+  package Views {
+    [TaskListScreen] as View_TaskList
+  }
+
+  package Widgets {
+    [TaskInput] as W_Input
+    [TaskItem] as W_Item
+  }
+
+  component "ProviderScope" as ProviderScope
+}
+
+package "External Services" {
+  [Firebase Realtime DB] as FirebaseRTDB
+  [Native Share Intent\n(share_plus)] as ShareIntent
+}
+
+' Simplified connections
+ProviderScope --> P_Repo
+ProviderScope --> P_TaskList
+P_Repo --> Repo_TaskRepo
+P_TaskList --> VM_TaskList
+VM_TaskList --> Repo_TaskRepo
+Repo_TaskRepo --> FirebaseRTDB
+
+' UI connections (high level)
+View_TaskList --> VM_TaskList
+View_TaskList --> W_Input
+View_TaskList --> W_Item
+W_Item ..> ShareIntent
+
+' Data model
+Model_Task --> Repo_TaskRepo
+Model_Task --> VM_TaskList
+
+
+note right of FirebaseRTDB
+Firebase Realtime Database Structure:
+/tasks/{taskId}:
+id: string
+title: string
+notes: string
+done: boolean
+updatedAt: number
+participants: [uuid1, uuid2]
+
+- tasks: stores all task objects
+- Each task contains participants list for multi-user sharing
+- ViewModel subscribes to /tasks changes and filters per-user
+- Writes (create/update/delete) reflect instantly to all participants
+end note
+
+@enduml

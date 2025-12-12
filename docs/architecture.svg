@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="707px" preserveAspectRatio="none" style="width:1099px;height:707px;" version="1.1" viewBox="0 0 1099 707" width="1099px" zoomAndPan="magnify"><defs><filter height="300%" id="fmx17qo2q0tcq" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[f7a8af4596208d018083762f6d0622b4]
+cluster ToDo App--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="16,6,94,6,101,28.4883,803,28.4883,803,469.93,16,469.93,16,6" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="101" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="72" x="20" y="21.5352">ToDo App</text><!--MD5=[027ebfd53c01aea08f474edbf35d0797]
+cluster Models--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="40,110.74,98,110.74,105,133.2283,124,133.2283,124,198.22,40,198.22,40,110.74" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="40" x2="105" y1="133.2283" y2="133.2283"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="52" x="44" y="126.2752">Models</text><!--MD5=[600c2d25b6889bd4e9f6b335204b22ae]
+cluster Repositories--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="252,358.44,349,358.44,356,380.9283,408,380.9283,408,445.93,252,445.93,252,358.44" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="252" x2="356" y1="380.9283" y2="380.9283"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="91" x="256" y="373.9752">Repositories</text><!--MD5=[254dae8c5770d06ac264924beb124d49]
+cluster ViewModels--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="189,230.47,282,230.47,289,252.9583,369,252.9583,369,334.44,189,334.44,189,230.47" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="189" x2="289" y1="252.9583" y2="252.9583"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="87" x="193" y="246.0052">ViewModels</text><!--MD5=[46d1235180ad9d6d621a9bea424853f2]
+cluster Providers--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="148,102.49,222,102.49,229,124.9783,601,124.9783,601,206.47,148,206.47,148,102.49" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="148" x2="229" y1="124.9783" y2="124.9783"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="68" x="152" y="118.0252">Providers</text><!--MD5=[999f80192410ad58725ac6d158b21eb2]
+cluster Views--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="625,110.74,674,110.74,681,133.2283,779,133.2283,779,198.22,625,198.22,625,110.74" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="625" x2="681" y1="133.2283" y2="133.2283"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="43" x="629" y="126.2752">Views</text><!--MD5=[38b0aef5c0a8a58f24959a40584c51e1]
+cluster Widgets--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="522,238.71,586,238.71,593,261.1983,759,261.1983,759,326.2,522,326.2,522,238.71" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="522" x2="593" y1="261.1983" y2="261.1983"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="58" x="526" y="254.2452">Widgets</text><!--MD5=[13d7899ea3604682320811ddebea1115]
+cluster External Services--><polygon fill="#FFFFFF" filter="url(#fmx17qo2q0tcq)" points="257,532.96,384,532.96,391,555.4483,636,555.4483,636,636.94,257,636.94,257,532.96" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="257" x2="391" y1="555.4483" y2="555.4483"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="121" x="261" y="548.4952">External Services</text><!--MD5=[223089c62d4811f933f24d9c9b99ebb2]
+entity ProviderScope--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="118" x="305" y="41"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="315" y="64.5352">ProviderScope</text><!--MD5=[2adeeca8b582325bc5d86d804f2d9dfa]
+entity Model_Task--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="52" x="56" y="145.74"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="66" y="169.2752">Task</text><!--MD5=[987ebba1a9a581894b9b53c6323fdd71]
+entity Repo_TaskRepo--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="125" x="267.5" y="393.44"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="277.5" y="416.9752">TaskRepository</text><!--MD5=[6ad205933229d39567082e4d54560f35]
+entity VM_TaskList--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="52.9766" style="stroke:#000000;stroke-width:1.5;" width="149" x="204.5" y="265.47"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="214.5" y="289.0052">TaskListViewModel</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="214.5" y="305.4934">(StateNotifier)</text><!--MD5=[83c996d98e1251dd6e1994fdf6945237]
+entity P_Repo--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="52.9766" style="stroke:#000000;stroke-width:1.5;" width="214" x="371" y="137.49"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="381" y="161.0252">taskRepoProvider</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="194" x="381" y="177.5134">(Provider&lt;TaskRepository&gt;)</text><!--MD5=[004b53d78cb8ebe3983efeb00d2974fa]
+entity P_TaskList--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="52.9766" style="stroke:#000000;stroke-width:1.5;" width="172" x="164" y="137.49"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="174" y="161.0252">taskListProvider</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="152" x="174" y="177.5134">(StateNotifierProvider)</text><!--MD5=[1958bb6f3590945d85d847e21031daa1]
+entity View_TaskList--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="121" x="641.5" y="145.74"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="101" x="651.5" y="169.2752">TaskListScreen</text><!--MD5=[841ca5efc27a893cb548cd38aa962a62]
+entity W_Input--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="88" x="538" y="273.71"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="548" y="297.2452">TaskInput</text><!--MD5=[caff109b1a0c3b1c8de5dc85e49ff677]
+entity W_Item--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="82" x="661" y="273.71"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="671" y="297.2452">TaskItem</text><!--MD5=[a71110b5d90bd0bc5631c091bb99b0fd]
+entity FirebaseRTDB--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="36.4883" style="stroke:#000000;stroke-width:1.5;" width="163" x="273.5" y="576.21"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="283.5" y="599.7452">Firebase Realtime DB</text><!--MD5=[43707309c8e5849c5fbad9ac8a411b64]
+entity ShareIntent--><rect fill="#FEFECE" filter="url(#fmx17qo2q0tcq)" height="52.9766" style="stroke:#000000;stroke-width:1.5;" width="149" x="471.5" y="567.96"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="129" x="481.5" y="591.4952">Native Share Intent</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="481.5" y="607.9834">(share_plus)</text><path d="M655.5,489.93 L655.5,698.9671 L1090.5,698.9671 L1090.5,499.93 L1080.5,489.93 L655.5,489.93 " fill="#FBFB77" filter="url(#fmx17qo2q0tcq)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M1080.5,489.93 L1080.5,499.93 L1090.5,499.93 L1080.5,489.93 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="237" x="661.5" y="507.4984">Firebase Realtime Database Structure:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="99" x="661.5" y="522.8089">/tasks/{taskId}:</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="57" x="661.5" y="538.1195">id: string</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="70" x="661.5" y="553.43">title: string</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="80" x="661.5" y="568.7405">notes: string</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="89" x="661.5" y="584.0511">done: boolean</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="121" x="661.5" y="599.3616">updatedAt: number</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="171" x="661.5" y="614.6722">participants: [uuid1, uuid2]</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="0" x="665.5" y="629.9827"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="193" x="661.5" y="645.2933">- tasks: stores all task objects</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="378" x="661.5" y="660.6038">- Each task contains participants list for multi-user sharing</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="396" x="661.5" y="675.9144">- ViewModel subscribes to /tasks changes and filters per-user</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="414" x="661.5" y="691.2249">- Writes (create/update/delete) reflect instantly to all participants</text><!--MD5=[4e7db945bd5f10a0d8b674ff04b38a7a]
+link ProviderScope to P_Repo--><path d="M383.6,77.91 C400.34,92.99 424.78,115.02 444.6,132.88 " fill="none" id="ProviderScope-to-P_Repo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="448.14,136.07,444.1262,127.0761,444.4235,132.7252,438.7745,133.0225,448.14,136.07" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3032b4ef40cd530763678009de28225f]
+link ProviderScope to P_TaskList--><path d="M344.4,77.91 C327.66,92.99 303.22,115.02 283.4,132.88 " fill="none" id="ProviderScope-to-P_TaskList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="279.86,136.07,289.2255,133.0225,283.5765,132.7252,283.8738,127.0761,279.86,136.07" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[77bb89f8a13a5f4ab1b9eab757b3458f]
+link P_Repo to Repo_TaskRepo--><path d="M462.44,190.81 C433.42,239 371.45,341.87 343.81,387.76 " fill="none" id="P_Repo-to-Repo_TaskRepo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="341.4,391.77,349.4826,386.1422,343.9893,387.4927,342.6389,381.9994,341.4,391.77" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[940bf6f77870aa30f92c02573fe364e5]
+link P_TaskList to VM_TaskList--><path d="M255.94,190.78 C260.47,210.48 266.75,237.74 271.61,258.85 " fill="none" id="P_TaskList-to-VM_TaskList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="272.73,263.72,274.5955,254.0494,271.6015,258.849,266.802,255.855,272.73,263.72" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[3b9f0b40c508eb0103dc8d090599dca0]
+link VM_TaskList to Repo_TaskRepo--><path d="M290.19,318.79 C299.07,339.28 311.36,367.66 319.93,387.44 " fill="none" id="VM_TaskList-to-Repo_TaskRepo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="321.86,391.9,321.9543,382.0516,319.8732,387.3117,314.6131,385.2305,321.86,391.9" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[cce2360cff6df25254cc42326ddfa103]
+link Repo_TaskRepo to FirebaseRTDB--><path d="M332.44,430.35 C336.96,463.02 346.62,532.89 351.71,569.68 " fill="none" id="Repo_TaskRepo-to-FirebaseRTDB" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="352.34,574.22,355.0691,564.7568,351.6549,569.2672,347.1445,565.853,352.34,574.22" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e562029f44c224726f25b071b66c1a35]
+link View_TaskList to VM_TaskList--><path d="M673.06,182.6 C653.44,193.66 626.53,207.17 601,214.47 C567.07,224.16 556.67,215.88 522,222.47 C467.18,232.89 406.79,249.88 359.93,264.33 " fill="none" id="View_TaskList-to-VM_TaskList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="355.44,265.72,365.2213,266.8717,360.2152,264.2376,362.8494,259.2315,355.44,265.72" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[01c829bacdc6e55aa8cd8b4e7a575e9e]
+link View_TaskList to W_Input--><path d="M683.33,182.52 C671.56,193.74 656.15,208.72 643,222.47 C628.59,237.53 612.97,255.1 601.14,268.67 " fill="none" id="View_TaskList-to-W_Input" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="597.95,272.34,606.8689,268.1624,601.2263,268.563,600.8257,262.9203,597.95,272.34" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[e16e00a3e9c2981c23e552e25ce8e250]
+link View_TaskList to W_Item--><path d="M702,182.5 C702,204.59 702,242.67 702,267.32 " fill="none" id="View_TaskList-to-W_Item" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="702,272.08,706.0257,263.0915,702.0143,267.08,698.0257,263.0686,702,272.08" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[9f5ddf1f7acb5f37e2f4e3fe86f04d42]
+link W_Item to ShareIntent--><path d="M692.94,310.41 C667.44,359.53 594.8,499.46 562.19,562.27 " fill="none" id="W_Item-to-ShareIntent" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#A80036" points="560.05,566.39,567.7479,560.2465,562.3545,561.9527,560.6483,556.5593,560.05,566.39" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[fc3a48896ec4aae6e562d095d0a715cc]
+link Model_Task to Repo_TaskRepo--><path d="M88.61,182.62 C102.4,217.35 137.3,295.29 189,342.44 C212.07,363.49 242.81,379.38 269.7,390.51 " fill="none" id="Model_Task-to-Repo_TaskRepo" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="274.32,392.39,267.4944,385.29,269.6895,390.5035,264.476,392.6987,274.32,392.39" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0fa87f0cc7e6e5e485ab5531b62b0c2a]
+link Model_Task to VM_TaskList--><path d="M104.14,182.58 C116.74,192.34 132.96,204.49 148,214.47 C173.09,231.12 201.91,248.16 226.11,261.91 " fill="none" id="Model_Task-to-VM_TaskList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="230.2,264.23,224.3255,256.3249,225.8448,261.7739,220.3958,263.2933,230.2,264.23" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0f776ecefe0e78a42de5ff73d5d6faab]
+link FirebaseRTDB to GMN35--><path d="M364.89,576.09 C382.03,546.94 420.35,492.46 471.5,483.93 C503.72,478.56 586.28,478.56 618.5,483.93 C630.62,485.95 642.84,488.67 655.04,491.92 " fill="none" id="FirebaseRTDB-GMN35" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><!--MD5=[91bfce120165d32b61ff9636de32ddde]
+@startuml
+
+skinparam componentStyle rectangle
+
+package "ToDo App" {
+  package Models {
+    [Task] as Model_Task
+  }
+
+  package Repositories {
+    [TaskRepository] as Repo_TaskRepo
+  }
+
+  package ViewModels {
+    [TaskListViewModel\n(StateNotifier)] as VM_TaskList
+  }
+
+  package Providers {
+    [taskRepoProvider\n(Provider<TaskRepository>)] as P_Repo
+    [taskListProvider\n(StateNotifierProvider)] as P_TaskList
+  }
+
+  package Views {
+    [TaskListScreen] as View_TaskList
+  }
+
+  package Widgets {
+    [TaskInput] as W_Input
+    [TaskItem] as W_Item
+  }
+
+  component "ProviderScope" as ProviderScope
+}
+
+package "External Services" {
+  [Firebase Realtime DB] as FirebaseRTDB
+  [Native Share Intent\n(share_plus)] as ShareIntent
+}
+
+' Simplified connections
+ProviderScope - -> P_Repo
+ProviderScope - -> P_TaskList
+P_Repo - -> Repo_TaskRepo
+P_TaskList - -> VM_TaskList
+VM_TaskList - -> Repo_TaskRepo
+Repo_TaskRepo - -> FirebaseRTDB
+
+' UI connections (high level)
+View_TaskList - -> VM_TaskList
+View_TaskList - -> W_Input
+View_TaskList - -> W_Item
+W_Item ..> ShareIntent
+
+' Data model
+Model_Task - -> Repo_TaskRepo
+Model_Task - -> VM_TaskList
+
+
+note right of FirebaseRTDB
+Firebase Realtime Database Structure:
+/tasks/{taskId}:
+id: string
+title: string
+notes: string
+done: boolean
+updatedAt: number
+participants: [uuid1, uuid2]
+
+- tasks: stores all task objects
+- Each task contains participants list for multi-user sharing
+- ViewModel subscribes to /tasks changes and filters per-user
+- Writes (create/update/delete) reflect instantly to all participants
+end note
+
+@enduml
+
+@startuml
+
+skinparam componentStyle rectangle
+
+package "ToDo App" {
+  package Models {
+    [Task] as Model_Task
+  }
+
+  package Repositories {
+    [TaskRepository] as Repo_TaskRepo
+  }
+
+  package ViewModels {
+    [TaskListViewModel\n(StateNotifier)] as VM_TaskList
+  }
+
+  package Providers {
+    [taskRepoProvider\n(Provider<TaskRepository>)] as P_Repo
+    [taskListProvider\n(StateNotifierProvider)] as P_TaskList
+  }
+
+  package Views {
+    [TaskListScreen] as View_TaskList
+  }
+
+  package Widgets {
+    [TaskInput] as W_Input
+    [TaskItem] as W_Item
+  }
+
+  component "ProviderScope" as ProviderScope
+}
+
+package "External Services" {
+  [Firebase Realtime DB] as FirebaseRTDB
+  [Native Share Intent\n(share_plus)] as ShareIntent
+}
+
+ProviderScope - -> P_Repo
+ProviderScope - -> P_TaskList
+P_Repo - -> Repo_TaskRepo
+P_TaskList - -> VM_TaskList
+VM_TaskList - -> Repo_TaskRepo
+Repo_TaskRepo - -> FirebaseRTDB
+
+View_TaskList - -> VM_TaskList
+View_TaskList - -> W_Input
+View_TaskList - -> W_Item
+W_Item ..> ShareIntent
+
+Model_Task - -> Repo_TaskRepo
+Model_Task - -> VM_TaskList
+
+
+note right of FirebaseRTDB
+Firebase Realtime Database Structure:
+/tasks/{taskId}:
+id: string
+title: string
+notes: string
+done: boolean
+updatedAt: number
+participants: [uuid1, uuid2]
+
+- tasks: stores all task objects
+- Each task contains participants list for multi-user sharing
+- ViewModel subscribes to /tasks changes and filters per-user
+- Writes (create/update/delete) reflect instantly to all participants
+end note
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 15:55:05 IST 2021)
+(MIT source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: IN
+--></g></svg>
